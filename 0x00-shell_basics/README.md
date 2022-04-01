@@ -1,1 +1,1 @@
-This file is printing the current workinf directory
+This file is printing the current working directory
